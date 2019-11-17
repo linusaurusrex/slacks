@@ -14,5 +14,6 @@ module.exports = (sequelize, DataTypes) => {
   Item.associate = function(models) {
     // associations can be defined here
   };
+//  Item.getItem = (username)
   return Item;
 };
