@@ -10,6 +10,10 @@ module.exports.registerRoutes = app => {
   app.use("/buyshirts", controllers.buyshirts);
   app.use("/buypants", controllers.buypants);
   app.use("/buymisc", controllers.buymisc);
+  app.use("/sellpants", controllers.sellpants);
+  app.use("/sellshirts", controllers.sellshirts);
+  app.use("/sellmisc", controllers.sellmisc);
+  app.use("/sell", controllers.sell);
 };
 
 module.exports.registerErrorHandlers = app => {
