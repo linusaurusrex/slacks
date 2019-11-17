@@ -1,7 +1,7 @@
 const auth = require("./auth");
 const tutorial = require("./tutorial");
 const home = require("./home");
-const testpage = require("./testpage");
+const exampleitem = require("./exampleitem");
 const buy = require("./buy");
 const buyshirts = require("./buyshirts");
 const buypants = require("./buypants");
@@ -14,4 +14,4 @@ const sell = require("./sell");
 
 
 
-module.exports = { auth, tutorial, home, testpage, buy, buyshirts, buypants, buymisc, sellpants, sellshirts, sellmisc, sell };
+module.exports = { auth, tutorial, home, exampleitem, buy, buyshirts, buypants, buymisc, sellpants, sellshirts, sellmisc, sell };

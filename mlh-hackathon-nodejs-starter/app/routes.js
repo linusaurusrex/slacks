@@ -5,7 +5,7 @@ module.exports.registerRoutes = app => {
   app.use("/", controllers.home);
   app.use("/auth", controllers.auth);
   app.use("/tutorial", controllers.tutorial);
-  app.use("/testpage", controllers.testpage);
+  app.use("/exampleitem", controllers.exampleitem);
   app.use("/buy", controllers.buy);
   app.use("/buyshirts", controllers.buyshirts);
   app.use("/buypants", controllers.buypants);
