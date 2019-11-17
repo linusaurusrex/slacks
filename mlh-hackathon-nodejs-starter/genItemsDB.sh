@@ -1,0 +1,2 @@
+npx sequelize-cli model:generate --name Item --attributes itemid:integer,url:string,owner:string,location:string,category:string,size:string,price:integer,description:string,contact:string --force
+npx sequelize-cli db:migrate
