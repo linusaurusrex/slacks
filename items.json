@@ -1,0 +1,114 @@
+[
+    {
+        "itemid":1,
+        "url": "pants1.png",
+        "owner": "linusaurusrex",
+        "location": "",
+        "category": "pants",
+        "size": "large",
+        "price": 15,
+        "description": "these are pants",
+        "contact": "5035557777"
+
+    },
+
+    {
+        "itemid":2,
+        "url": "shirts1.png",
+        "owner": "linusaurusrex",
+        "location": "",
+        "category": "shirts",
+        "size": "medium",
+        "price": 15,
+        "description": "this is a medium shirt",
+        "contact": "5035557777"
+
+    },
+
+    {
+        "itemid":3,
+        "url": "misc1.png",
+        "owner": "linusaurusrex",
+        "location": "",
+        "category": "misc",
+        "size": "small",
+        "price": 15,
+        "description": "very nice toe socks, feels like a loving hug for all of your toes, all the time",
+        "contact": "5035557777"
+
+    },
+    {
+        "itemid":4,
+        "url": "shirts2.png",
+        "owner": "linusaurusrex",
+        "location": "",
+        "category": "shirts",
+        "size": "large",
+        "price": 15,
+        "description": "this is a medium black shirt",
+        "contact": "5035557777"
+
+    },
+    {
+        "itemid":5,
+        "url": "shirts3.png",
+        "owner": "jlawdubs",
+        "location": "",
+        "category": "shirts",
+        "size": "small",
+        "price": 15,
+        "description": "this is a long sleeved flannel shirt",
+        "contact": "5055757577"
+
+    },
+    {
+        "itemid":6,
+        "url": "pants2.png",
+        "owner": "jlawdubs",
+        "location": "",
+        "category": "pants",
+        "size": "large",
+        "price": 35,
+        "description": "these pants are simply gigantic",
+        "contact": "5055757577"
+
+    },
+
+    {
+        "itemid":7,
+        "url": "pants3.png",
+        "owner": "jlawdubs",
+        "location": "",
+        "category": "pants",
+        "size": "small",
+        "price": 10,
+        "description": "these pants are way too small",
+        "contact": "5055757577"
+
+    },
+
+    {
+        "itemid":8,
+        "url": "misc2.png",
+        "owner": "linusaurusrex",
+        "location": "",
+        "category": "misc",
+        "size": "medium",
+        "price": 12,
+        "description": "this is a very nice hat, highly recomended",
+        "contact": "5035557777"
+
+    },
+    {
+        "itemid":9,
+        "url": "misc3.png",
+        "owner": "jlawdubs",
+        "location": "",
+        "category": "misc",
+        "size": "extra small",
+        "price": 8,
+        "description": "this is an incredibly small pair of underwear",
+        "contact": "5055757577"
+
+    }
+]
